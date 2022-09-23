@@ -17,7 +17,7 @@ import "font-awesome/css/font-awesome.min.css";
 
 // ReactDOM.render(<Main />, document.getElementById("root"));
 ReactDOM.render(
-  <App name="Welcome" year={2010} />,
+  <App name="Welcome to Azure Repo" year={2010} />,
   document.getElementById("root")
 ); // <Main/> it must be closed
 //last render only called
